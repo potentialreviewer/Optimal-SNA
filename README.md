@@ -134,7 +134,7 @@ The novelty of this study lies in defining SNA as an MDP and demonstrating that 
 
 ## Declaration of Generative AI
 
-The codes used in this study are fundamentally based on those we originally designed and implemented. As mentioned earlier, several external sources were also reused. However, many researchers nowadays employ `vibe coding` to identify and fix overlooked errors in their code. Likewise, we asked [ChatGPT](https://cdn.openai.com/gpt-5-system-card.pdf) to review the original codes and adopted its suggestions for improvement under our own responsibility and judgment.
+The codes used in this study are based on those we originally designed and implemented. As mentioned earlier, several external sources were also reused. However, many researchers nowadays employ `vibe coding` to identify and fix overlooked errors in their codes. Likewise, we asked [ChatGPT](https://cdn.openai.com/gpt-5-system-card.pdf) to review the original codes and adopted its suggestions for improvement under our own responsibility and judgment.
 
 ## Citation
 
