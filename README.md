@@ -1,5 +1,5 @@
 # Optimal-SNA
-This repository contains the code for the paper submitted to IEEE Access:
+This repository contains the codes and data for the paper submitted to IEEE Access:
 
 - [A Critical Review and Process Optimization for Semantic Network Analysis](https://www.researchgate.net/publication/395768708_A_Critical_Review_and_Process_Optimization_for_Semantic_Network_Analysis)
 
